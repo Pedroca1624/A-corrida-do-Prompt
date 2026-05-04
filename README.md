@@ -1,4 +1,4 @@
-# 🤖 Engenharia de Prompts com IA
+# 🤖 A Corrida do Prompt
 
 ## 📌 Descrição
 Este projeto apresenta meu primeiro contato prático com Engenharia de Prompts, explorando como a forma de comunicação com modelos de Inteligência Artificial impacta diretamente na qualidade das respostas.
@@ -66,9 +66,7 @@ Criação de um e-mail de desculpas de um pirata para um rei, com variações:
 
 ## 📂 Estrutura do Projeto
 
-## 📂 Estrutura do Projeto
-
-/engenharia-de-prompts  
+/a-corrida-do-prompt  
  ├── README.md  
  ├── /assets  
  │     └── trabalho.pdf  
